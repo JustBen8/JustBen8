@@ -1,7 +1,7 @@
 #Fill out these variables and remove '_template' from the filename.
 
 # Your config
-UIName = ""
+UIName = "Turk"
 VoiceChoice = ""
 User = ""
 AuthorisedUsers = []
